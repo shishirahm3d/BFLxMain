@@ -1,0 +1,21 @@
+{
+  "name": "BFL",
+  "author": "Shishir Ahmed",
+  "main": "bot.js",
+  "version": "2.1",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^13.14.0",
+    "fstorm": "latest",
+    "jimp": "latest",
+    "opentype.js": "latest",
+    "canvas": "latest",
+	"dotenv": "^16.3.1",
+    "loadavg-windows": "latest",
+    "node-cron": "latest",
+    "@themondon/discord-player-v13": "latest",
+    "google-it": "latest"
+  }
+}
