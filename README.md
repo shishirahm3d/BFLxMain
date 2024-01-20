@@ -1,1 +1,1 @@
-# BFLxMain
+# BFL Official Discord Bot.
