@@ -12,10 +12,11 @@
     "jimp": "latest",
     "opentype.js": "latest",
     "canvas": "latest",
-	"dotenv": "^16.3.1",
+    "dotenv": "^16.3.1",
     "loadavg-windows": "latest",
     "node-cron": "latest",
     "@themondon/discord-player-v13": "latest",
-    "google-it": "latest"
+    "google-it": "latest",
+    "weather-js": "latest"
   }
 }
